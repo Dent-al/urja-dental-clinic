@@ -320,54 +320,102 @@ const Home = () => (
 		</div>
 
 		{/* Highlights Section */}
-		<section className="w-full py-12 bg-white flex flex-col items-center">
-			 <h2 className="text-5xl md:text-6xl font-extrabold text-gray-800 mb-10 text-center drop-shadow-lg tracking-wide">HIGHLIGHTS OF OUR CLINIC</h2>
-			<div className="flex flex-wrap justify-center gap-8 w-full max-w-5xl">
-				{[
-					{
-						img: highlight1,
-						text: 'Hi-tech dentistry',
-					},
-					{
-						img: highlight2,
-						text: 'Super specialized team of dentists',
-					},
-					{
-						img: highlight3,
-						text: 'International standards of sterilization',
-					},
-					{
-						img: highlight4,
-						text: 'Dental tourism',
-					},
-					{
-						img: highlight5,
-						text: '10000+ satisfied patients',
-					},
-				].map((item, idx) => (
-					<div
-						key={idx}
-						className="group flex flex-col items-center w-64"
-					>
-						<div
-							className="rounded-full overflow-hidden shadow-lg bg-white"
-							style={{ boxShadow: '0 0 0 12px #fff, 0 8px 48px 0px rgba(255,0,0,0.18), 0 0 48px 0px rgba(0,0,255,0.12)', width: '150px', height: '150px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}
-						>
-							<img
-								src={item.img}
-								alt={item.text}
-								className="w-56 h-56 object-cover transition-transform duration-300 group-hover:scale-110 group-hover:shadow-[0_0_48px_12px_rgba(255,0,0,0.25)]"
-								style={{ filter: 'drop-shadow(0 0 18px #e53e3e33)' }}
-							/>
-						</div>
-						<span
-							className="mt-6 text-xl font-bold text-red-600 text-center transition-transform duration-300 group-hover:scale-110 group-hover:text-red-700 group-hover:drop-shadow-[0_0_12px_#e53e3e]"
-						>
-							{item.text}
-						</span>
-					</div>
-				))}
-			</div>
+		<section style={{ width: '100%', padding: '48px 0', background: 'white', marginTop: '32px' }}>
+		  <h2
+		    style={{
+		      textAlign: 'center',
+		      fontWeight: 'bold',
+		      fontSize: '3rem',
+		      marginBottom: '32px',
+		      color: '#222',
+		      textShadow: '2px 2px 8px #ccc',
+		    }}
+		  >
+		    HIGHLIGHTS OF OUR CLINIC
+		  </h2>
+		  <div
+		    style={{
+		      display: 'flex',
+		      flexDirection: 'row',
+		      alignItems: 'flex-start',
+		      gap: '48px',
+		      overflowX: 'auto',
+		      padding: '16px 32px',
+		      background: 'white',
+		    }}
+		  >
+		    {[
+		      {
+		        img: highlight1,
+		        text: 'Hi-tech dentistry',
+		      },
+		      {
+		        img: highlight2,
+		        text: 'Super specialized team of dentists',
+		      },
+		      {
+		        img: highlight3,
+		        text: 'International standards of sterilization',
+		      },
+		      {
+		        img: highlight4,
+		        text: 'Dental tourism',
+		      },
+		      {
+		        img: highlight5,
+		        text: '10000+ satisfied patients',
+		      },
+		    ].map((highlight, idx) => (
+		      <div
+		        key={idx}
+		        style={{
+		          display: 'flex',
+		          flexDirection: 'column',
+		          alignItems: 'center',
+		          minWidth: '180px',
+		        }}
+		      >
+		        <div
+		          style={{
+		            width: '140px',
+		            height: '140px',
+		            borderRadius: '50%',
+		            background: 'white',
+		            boxShadow: '0 4px 24px 0 rgba(255,0,0,0.08)',
+		            display: 'flex',
+		            alignItems: 'center',
+		            justifyContent: 'center',
+		            marginBottom: '16px',
+		            border: '6px solid #fff',
+		          }}
+		        >
+		          <img
+		            src={highlight.img}
+		            alt={highlight.text}
+		            style={{
+		              width: '120px',
+		              height: '120px',
+		              borderRadius: '50%',
+		              objectFit: 'cover',
+		              background: '#fff',
+		            }}
+		          />
+		        </div>
+		        <div
+		          style={{
+		            textAlign: 'center',
+		            fontWeight: 'bold',
+		            color: '#e53935',
+		            fontSize: '1.25rem',
+		            marginTop: '8px',
+		            lineHeight: '1.2',
+		          }}
+		        >
+		          {highlight.text}
+		        </div>
+		      </div>
+		    ))}
+		  </div>
 		</section>
 
 	{/* ...existing code... */}
