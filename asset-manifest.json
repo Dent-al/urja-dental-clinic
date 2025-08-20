@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/urja-dental-clinic/static/css/main.b7bfef43.css",
-    "main.js": "/urja-dental-clinic/static/js/main.41c4e56d.js",
+    "main.css": "/urja-dental-clinic/static/css/main.27737884.css",
+    "main.js": "/urja-dental-clinic/static/js/main.6ad55041.js",
     "static/js/453.eceac61d.chunk.js": "/urja-dental-clinic/static/js/453.eceac61d.chunk.js",
     "static/media/highlight3.png": "/urja-dental-clinic/static/media/highlight3.c077db4a92e2b384dc01.png",
     "static/media/logo.svg": "/urja-dental-clinic/static/media/logo.7e3cc62fe9558a89b010d2f91b564b47.svg",
@@ -14,12 +14,12 @@
     "static/media/tooth icon.svg": "/urja-dental-clinic/static/media/tooth icon.1ee59519b6bed83ac04ee0aef2cf33d8.svg",
     "static/media/youtube.svg": "/urja-dental-clinic/static/media/youtube.0e98f63ee6a45bab87e67d10f5962bf5.svg",
     "index.html": "/urja-dental-clinic/index.html",
-    "main.b7bfef43.css.map": "/urja-dental-clinic/static/css/main.b7bfef43.css.map",
-    "main.41c4e56d.js.map": "/urja-dental-clinic/static/js/main.41c4e56d.js.map",
+    "main.27737884.css.map": "/urja-dental-clinic/static/css/main.27737884.css.map",
+    "main.6ad55041.js.map": "/urja-dental-clinic/static/js/main.6ad55041.js.map",
     "453.eceac61d.chunk.js.map": "/urja-dental-clinic/static/js/453.eceac61d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7bfef43.css",
-    "static/js/main.41c4e56d.js"
+    "static/css/main.27737884.css",
+    "static/js/main.6ad55041.js"
   ]
 }
