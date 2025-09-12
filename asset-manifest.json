@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/urja-dental-clinic/static/css/main.6f7c98f1.css",
-    "main.js": "/urja-dental-clinic/static/js/main.a73aaefb.js",
+    "main.css": "/urja-dental-clinic/static/css/main.e77be549.css",
+    "main.js": "/urja-dental-clinic/static/js/main.dc0d1797.js",
     "static/js/20.6b9409c1.chunk.js": "/urja-dental-clinic/static/js/20.6b9409c1.chunk.js",
     "static/js/779.88c4cb33.chunk.js": "/urja-dental-clinic/static/js/779.88c4cb33.chunk.js",
     "static/js/997.e8b2b6cf.chunk.js": "/urja-dental-clinic/static/js/997.e8b2b6cf.chunk.js",
@@ -23,12 +23,13 @@
     "static/js/460.149384ba.chunk.js": "/urja-dental-clinic/static/js/460.149384ba.chunk.js",
     "static/js/485.fc588e3e.chunk.js": "/urja-dental-clinic/static/js/485.fc588e3e.chunk.js",
     "static/js/159.473ee1ab.chunk.js": "/urja-dental-clinic/static/js/159.473ee1ab.chunk.js",
-    "static/js/399.2c47f585.chunk.js": "/urja-dental-clinic/static/js/399.2c47f585.chunk.js",
+    "static/js/399.aaae121f.chunk.js": "/urja-dental-clinic/static/js/399.aaae121f.chunk.js",
     "static/js/422.31d16efa.chunk.js": "/urja-dental-clinic/static/js/422.31d16efa.chunk.js",
     "static/js/626.036ea734.chunk.js": "/urja-dental-clinic/static/js/626.036ea734.chunk.js",
     "static/js/410.46bcc059.chunk.js": "/urja-dental-clinic/static/js/410.46bcc059.chunk.js",
     "static/js/438.1ef25ffe.chunk.js": "/urja-dental-clinic/static/js/438.1ef25ffe.chunk.js",
     "static/js/453.79ad40dd.chunk.js": "/urja-dental-clinic/static/js/453.79ad40dd.chunk.js",
+    "static/js/204.2d4d5cf5.chunk.js": "/urja-dental-clinic/static/js/204.2d4d5cf5.chunk.js",
     "static/media/99.png": "/urja-dental-clinic/static/media/99.40ecd61c9b57bf086e71.png",
     "static/media/smile makeover (2).png": "/urja-dental-clinic/static/media/smile makeover (2).312b4342c1552f6bd820.png",
     "static/media/Denture5.png": "/urja-dental-clinic/static/media/Denture5.bd3fea45faca722e8222.png",
@@ -116,6 +117,7 @@
     "static/media/teethcleaning5.png": "/urja-dental-clinic/static/media/teethcleaning5.eaa11bcf9fe195c33a48.png",
     "static/media/tooth wear.png": "/urja-dental-clinic/static/media/tooth wear.4291e531559349501505.png",
     "static/media/complete denture.png": "/urja-dental-clinic/static/media/complete denture.2f8c5870fb206594ed53.png",
+    "static/media/tooth.png": "/urja-dental-clinic/static/media/tooth.f70bccf0343624de0647.png",
     "static/media/tooth caries.png": "/urja-dental-clinic/static/media/tooth caries.b9b98fa62baa8d0ef8ed.png",
     "static/media/Re-Root Canal Treatment.png": "/urja-dental-clinic/static/media/Re-Root Canal Treatment.79554c04fcb277c86db7.png",
     "static/media/Teeth Cleaning & Polishing.png": "/urja-dental-clinic/static/media/Teeth Cleaning & Polishing.35e3bdf87279bfe1787d.png",
@@ -160,6 +162,7 @@
     "static/media/tooth replacement.png": "/urja-dental-clinic/static/media/tooth replacement.974727e17310a8fa3072.png",
     "static/media/Front tooth gap.png": "/urja-dental-clinic/static/media/Front tooth gap.aca3ef8f77249a8867b8.png",
     "static/media/producing too much saliva.png": "/urja-dental-clinic/static/media/producing too much saliva.0fdd266759494621a0d2.png",
+    "static/media/Re- root canal treatment.png": "/urja-dental-clinic/static/media/Re- root canal treatment.774aec756a9838b26348.png",
     "static/media/ringing sound in ears.png": "/urja-dental-clinic/static/media/ringing sound in ears.e2a3a01c1738aa60102e.png",
     "static/media/partial tooth cap.png": "/urja-dental-clinic/static/media/partial tooth cap.901f5d3951a6b34d6267.png",
     "static/media/whatsapp.svg": "/urja-dental-clinic/static/media/whatsapp.04ff4ceb15da0b22560f2dff6ab8b8cd.svg",
@@ -167,8 +170,8 @@
     "static/media/adding bone to the socket.png": "/urja-dental-clinic/static/media/adding bone to the socket.d586392f953edae03ce7.png",
     "static/media/youtube.svg": "/urja-dental-clinic/static/media/youtube.0e98f63ee6a45bab87e67d10f5962bf5.svg",
     "index.html": "/urja-dental-clinic/index.html",
-    "main.6f7c98f1.css.map": "/urja-dental-clinic/static/css/main.6f7c98f1.css.map",
-    "main.a73aaefb.js.map": "/urja-dental-clinic/static/js/main.a73aaefb.js.map",
+    "main.e77be549.css.map": "/urja-dental-clinic/static/css/main.e77be549.css.map",
+    "main.dc0d1797.js.map": "/urja-dental-clinic/static/js/main.dc0d1797.js.map",
     "20.6b9409c1.chunk.js.map": "/urja-dental-clinic/static/js/20.6b9409c1.chunk.js.map",
     "779.88c4cb33.chunk.js.map": "/urja-dental-clinic/static/js/779.88c4cb33.chunk.js.map",
     "997.e8b2b6cf.chunk.js.map": "/urja-dental-clinic/static/js/997.e8b2b6cf.chunk.js.map",
@@ -190,15 +193,16 @@
     "460.149384ba.chunk.js.map": "/urja-dental-clinic/static/js/460.149384ba.chunk.js.map",
     "485.fc588e3e.chunk.js.map": "/urja-dental-clinic/static/js/485.fc588e3e.chunk.js.map",
     "159.473ee1ab.chunk.js.map": "/urja-dental-clinic/static/js/159.473ee1ab.chunk.js.map",
-    "399.2c47f585.chunk.js.map": "/urja-dental-clinic/static/js/399.2c47f585.chunk.js.map",
+    "399.aaae121f.chunk.js.map": "/urja-dental-clinic/static/js/399.aaae121f.chunk.js.map",
     "422.31d16efa.chunk.js.map": "/urja-dental-clinic/static/js/422.31d16efa.chunk.js.map",
     "626.036ea734.chunk.js.map": "/urja-dental-clinic/static/js/626.036ea734.chunk.js.map",
     "410.46bcc059.chunk.js.map": "/urja-dental-clinic/static/js/410.46bcc059.chunk.js.map",
     "438.1ef25ffe.chunk.js.map": "/urja-dental-clinic/static/js/438.1ef25ffe.chunk.js.map",
-    "453.79ad40dd.chunk.js.map": "/urja-dental-clinic/static/js/453.79ad40dd.chunk.js.map"
+    "453.79ad40dd.chunk.js.map": "/urja-dental-clinic/static/js/453.79ad40dd.chunk.js.map",
+    "204.2d4d5cf5.chunk.js.map": "/urja-dental-clinic/static/js/204.2d4d5cf5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f7c98f1.css",
-    "static/js/main.a73aaefb.js"
+    "static/css/main.e77be549.css",
+    "static/js/main.dc0d1797.js"
   ]
 }
