@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/urja-dental-clinic/static/css/main.83b41787.css",
-    "main.js": "/urja-dental-clinic/static/js/main.3bd7d02f.js",
+    "main.js": "/urja-dental-clinic/static/js/main.cd4ed119.js",
     "static/js/20.6b9409c1.chunk.js": "/urja-dental-clinic/static/js/20.6b9409c1.chunk.js",
     "static/js/779.88c4cb33.chunk.js": "/urja-dental-clinic/static/js/779.88c4cb33.chunk.js",
     "static/js/997.e8b2b6cf.chunk.js": "/urja-dental-clinic/static/js/997.e8b2b6cf.chunk.js",
@@ -173,7 +173,7 @@
     "static/media/youtube.svg": "/urja-dental-clinic/static/media/youtube.0e98f63ee6a45bab87e67d10f5962bf5.svg",
     "index.html": "/urja-dental-clinic/index.html",
     "main.83b41787.css.map": "/urja-dental-clinic/static/css/main.83b41787.css.map",
-    "main.3bd7d02f.js.map": "/urja-dental-clinic/static/js/main.3bd7d02f.js.map",
+    "main.cd4ed119.js.map": "/urja-dental-clinic/static/js/main.cd4ed119.js.map",
     "20.6b9409c1.chunk.js.map": "/urja-dental-clinic/static/js/20.6b9409c1.chunk.js.map",
     "779.88c4cb33.chunk.js.map": "/urja-dental-clinic/static/js/779.88c4cb33.chunk.js.map",
     "997.e8b2b6cf.chunk.js.map": "/urja-dental-clinic/static/js/997.e8b2b6cf.chunk.js.map",
@@ -205,6 +205,6 @@
   },
   "entrypoints": [
     "static/css/main.83b41787.css",
-    "static/js/main.3bd7d02f.js"
+    "static/js/main.cd4ed119.js"
   ]
 }
