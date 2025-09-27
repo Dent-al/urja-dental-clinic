@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/urja-dental-clinic/static/css/main.abdb50db.css",
-    "main.js": "/urja-dental-clinic/static/js/main.1723c3e8.js",
+    "main.js": "/urja-dental-clinic/static/js/main.c234ca77.js",
     "static/js/20.6b9409c1.chunk.js": "/urja-dental-clinic/static/js/20.6b9409c1.chunk.js",
     "static/js/779.88c4cb33.chunk.js": "/urja-dental-clinic/static/js/779.88c4cb33.chunk.js",
     "static/js/997.e8b2b6cf.chunk.js": "/urja-dental-clinic/static/js/997.e8b2b6cf.chunk.js",
@@ -98,6 +98,7 @@
     "static/media/websitefront2.png": "/urja-dental-clinic/static/media/websitefront2.4353c4669d5ce7a3df64.png",
     "static/media/dentures.png": "/urja-dental-clinic/static/media/dentures.5219f9ec5fdae5646864.png",
     "static/media/DentalImplant4.png": "/urja-dental-clinic/static/media/DentalImplant4.324f632f307239100898.png",
+    "static/media/specialized-dentists-team.png": "/urja-dental-clinic/static/media/specialized-dentists-team.8e7d581e3f983ab8089c.png",
     "static/media/Facial Twitch.png": "/urja-dental-clinic/static/media/Facial Twitch.1ae7e2c5d49222080d23.png",
     "static/media/diabetic mouth changes.png": "/urja-dental-clinic/static/media/diabetic mouth changes.67644b2b612cd47f3d80.png",
     "static/media/tooth crown.png": "/urja-dental-clinic/static/media/tooth crown.6fa330bc7102976cd89b.png",
@@ -105,7 +106,6 @@
     "static/media/One Sided Facial Weakness.png": "/urja-dental-clinic/static/media/One Sided Facial Weakness.14f00b8791b300c5501f.png",
     "static/media/teethcleaning3.png": "/urja-dental-clinic/static/media/teethcleaning3.b1a1fcb915da41230a6d.png",
     "static/media/severe gum infcetion.png": "/urja-dental-clinic/static/media/severe gum infcetion.d8ab6492100051aeffa9.png",
-    "static/media/specialized-dentists-team.png": "/urja-dental-clinic/static/media/specialized-dentists-team.382a87e45570580e3bb5.png",
     "static/media/gum treatment.png": "/urja-dental-clinic/static/media/gum treatment.87cd1323902f2ec61ca9.png",
     "static/media/Denture2.png": "/urja-dental-clinic/static/media/Denture2.825cf150fe2687f29ab4.png",
     "static/media/bracestreatment5.png": "/urja-dental-clinic/static/media/bracestreatment5.8f0cfefd8c52c999fac5.png",
@@ -171,7 +171,7 @@
     "static/media/youtube.svg": "/urja-dental-clinic/static/media/youtube.0e98f63ee6a45bab87e67d10f5962bf5.svg",
     "index.html": "/urja-dental-clinic/index.html",
     "main.abdb50db.css.map": "/urja-dental-clinic/static/css/main.abdb50db.css.map",
-    "main.1723c3e8.js.map": "/urja-dental-clinic/static/js/main.1723c3e8.js.map",
+    "main.c234ca77.js.map": "/urja-dental-clinic/static/js/main.c234ca77.js.map",
     "20.6b9409c1.chunk.js.map": "/urja-dental-clinic/static/js/20.6b9409c1.chunk.js.map",
     "779.88c4cb33.chunk.js.map": "/urja-dental-clinic/static/js/779.88c4cb33.chunk.js.map",
     "997.e8b2b6cf.chunk.js.map": "/urja-dental-clinic/static/js/997.e8b2b6cf.chunk.js.map",
@@ -203,6 +203,6 @@
   },
   "entrypoints": [
     "static/css/main.abdb50db.css",
-    "static/js/main.1723c3e8.js"
+    "static/js/main.c234ca77.js"
   ]
 }
